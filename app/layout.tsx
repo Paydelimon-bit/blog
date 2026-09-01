@@ -28,7 +28,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={cn("h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans", inter.variable)}
     >
       <body className="flex flex-col">
-        <nav className="flex justify-center bg-blue-400"><Nav/></nav>
+        <nav className="flex justify-start bg-blue-400"><Nav/></nav>
         {children}
         </body>
     </html>
