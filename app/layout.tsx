@@ -35,6 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       )}
     >
       <body className="flex flex-col">
+        
         <div className="flex bg-blue-400">
           <Nav />
         </div>
