@@ -28,8 +28,9 @@ export default function Nav() {
 
   //Enlaces de analisis de datos
   const AD: Class[] = [
-    { class: "Primesa clase", url: "/ADA/clase1" },
-    { class: "Segunda clase", url: "/ADA/clase2" },
+    { class: "Primesa clase", url: "/MD/clase1" },
+    { class: "Segunda clase", url: "/MD/clase3" },
+    {class:"Tercera clase", url: "/MD/clase4"}
   ];
 
   
