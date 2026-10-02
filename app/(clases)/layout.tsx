@@ -7,7 +7,7 @@ interface LayoutProps{
 
 export default function layout({children}:LayoutProps){
     return(
-    <div className="flex  ">
+    <div className="flex flex-col ">
         
         {children}
     </div>

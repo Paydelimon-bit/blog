@@ -36,6 +36,15 @@ const subjects: Subject[] = [
 ];
 
 export default function Nav() {
+
+  //Enlaces de analisis de datos
+
+
+  
+//Nombre de las materias
+
+
+
   return (
     <nav className="w-full border-b border-slate-200 bg-white" aria-label="Navegación principal">
       <NavigationMenu className="mx-auto min-h-16 w-full max-w-6xl justify-start px-4 sm:px-6">
